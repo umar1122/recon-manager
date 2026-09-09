@@ -1,6 +1,7 @@
 # 🛡️ Recon Board
 
 > **A simple, private, browser-based recon workspace for security researchers and bug bounty hunters.**
+> **Live site:** (https://umar1122.github.io/recon-manager/)
 
 Recon Board helps you keep your reconnaissance work organized — **targets, scope, recon progress, notes, evidence, and findings — all in one place.**
 
