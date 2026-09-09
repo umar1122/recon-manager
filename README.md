@@ -382,7 +382,3 @@ If Recon Board helps you organize your security research:
 - 🔧 Contribute improvements
 
 ---
-
-## 📜 License
-
-Choose and add a license before publishing if you want others to reuse or modify the project.
